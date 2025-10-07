@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Hatim El Asri  
+# 👋 Hi, ich bin Hatim
 🎓 B.Sc. Informatik | 💻 Java & Web Developer | 🚀 Leidenschaft für Clean Code & moderne Webtechnologien  
 
 Willkommen auf meinem GitHub-Profil!  
